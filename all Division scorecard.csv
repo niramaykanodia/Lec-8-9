@@ -1,0 +1,13 @@
+,student_names,math_scores,bio_scores,history_score,physics_scores,total_score,average_score,status,character_grade,division,student_email
+0,Niramay,100,80,90,100,370,92.5,pass,A,A,niramay@gamil.com
+1,aryan,25,35,20,18,98,24.5,Fail,F,A,aryan@gamil.com
+2,yash,41,30,90,90,251,62.75,pass,C,A,yash@gmail.com
+3,shubham,40,80,45,18,183,45.75,pass,D,A,shubham@gmail.com
+4,Ritesh,100,90,75,55,320,80.0,pass,B,B,ritesh@gamil.com
+5,Manish,55,18,20,62,155,38.75,pass,D,B,manish@gmail.com
+6,Mudit,36,35,100,95,266,66.5,pass,C,B,mudit@gmail.com
+7,Omi,65,42,50,19,176,44.0,pass,D,B,om@gamil.com
+8,Sudhir,95,82,47,99,323,80.75,pass,B,C,sudhir@gmail.com
+9,Somil,100,55,45,36,236,59.0,pass,C,C,somil@gamil.com
+10,Ravikant,65,36,85,98,284,71.0,pass,B,C,ravikant@gmail.com
+11,Dinesh,78,98,99,85,360,90.0,pass,A,C,dinesh@gmail.com
